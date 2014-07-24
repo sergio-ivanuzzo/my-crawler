@@ -8,5 +8,5 @@ For start, you need to install external libraries:
 1. Requests (pip install requests)
 2. BeautifulSoup (pip install beautifulsoup)
 
-
-Run: python crawler.py <web-page address, started with http:// > <depth of recursion>
+For run this app, type next command from directory, where app is:
+python crawler.py [web-page address, started with http://] [depth of recursion]
