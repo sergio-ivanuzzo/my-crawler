@@ -1,7 +1,7 @@
 my-crawler 0.2
 ==========
 
-Command-line crawler
+<b>Command-line crawler</b>
 
 For start, you need to install external libraries:
 
